@@ -1,0 +1,1523 @@
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 900x600+0+0
+  Resolution: 72x72
+  Print size: 12.5x8.33333
+  Units: Undefined
+  Type: Palette
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+  Channel statistics:
+    Red:
+      min: 85 (0.333333)
+      max: 144 (0.564706)
+      mean: 142.37 (0.558315)
+      standard deviation: 9.53257 (0.0373826)
+      kurtosis: 31.4276
+      skewness: -5.76342
+    Green:
+      min: 96 (0.376471)
+      max: 153 (0.6)
+      mean: 151.426 (0.593826)
+      standard deviation: 9.21009 (0.036118)
+      kurtosis: 31.425
+      skewness: -5.76344
+    Blue:
+      min: 110 (0.431373)
+      max: 163 (0.639216)
+      mean: 161.536 (0.633475)
+      standard deviation: 8.56288 (0.0335799)
+      kurtosis: 31.4277
+      skewness: -5.76352
+  Image statistics:
+    Overall:
+      min: 85 (0.333333)
+      max: 163 (0.639216)
+      mean: 151.777 (0.595206)
+      standard deviation: 9.11077 (0.0357285)
+      kurtosis: 39.4341
+      skewness: -5.96109
+  Colors: 84
+  Histogram:
+     13698: ( 85, 96,110) #55606E srgb(85,96,110)
+        37: ( 86, 97,111) #56616F srgb(86,97,111)
+        20: ( 87, 98,112) #576270 srgb(87,98,112)
+         8: ( 88, 99,112) #586370 srgb(88,99,112)
+        19: ( 88, 99,113) #586371 srgb(88,99,113)
+       167: ( 89,100,114) #596472 srgb(89,100,114)
+        12: ( 90,101,114) #5A6572 srgb(90,101,114)
+        10: ( 91,101,115) #5B6573 srgb(91,101,115)
+        13: ( 91,102,116) #5B6674 srgb(91,102,116)
+        12: ( 92,103,116) #5C6774 srgb(92,103,116)
+         7: ( 93,103,117) #5D6775 srgb(93,103,117)
+        83: ( 93,104,117) #5D6875 srgb(93,104,117)
+         9: ( 94,105,118) #5E6976 srgb(94,105,118)
+         6: ( 95,105,119) #5F6977 srgb(95,105,119)
+         5: ( 95,106,119) #5F6A77 srgb(95,106,119)
+        14: ( 96,107,120) #606B78 srgb(96,107,120)
+       112: ( 97,107,121) #616B79 srgb(97,107,121)
+        15: ( 97,108,121) #616C79 srgb(97,108,121)
+        11: ( 98,109,122) #626D7A srgb(98,109,122)
+         4: ( 99,109,122) #636D7A srgb(99,109,122)
+         6: (100,110,123) #646E7B srgb(100,110,123)
+         4: (100,111,124) #646F7C srgb(100,111,124)
+       221: (101,111,124) #656F7C srgb(101,111,124)
+         6: (102,112,125) #66707D srgb(102,112,125)
+         2: (102,113,126) #66717E srgb(102,113,126)
+         8: (103,113,126) #67717E srgb(103,113,126)
+         6: (104,114,127) #68727F srgb(104,114,127)
+         5: (104,115,127) #68737F srgb(104,115,127)
+        57: (105,115,128) #697380 srgb(105,115,128)
+        11: (106,116,129) #6A7481 srgb(106,116,129)
+         8: (107,117,129) #6B7581 srgb(107,117,129)
+         7: (107,117,130) #6B7582 srgb(107,117,130)
+        16: (108,118,131) #6C7683 srgb(108,118,131)
+       110: (109,119,131) #6D7783 srgb(109,119,131)
+         8: (109,119,132) #6D7784 srgb(109,119,132)
+         8: (110,120,132) #6E7884 srgb(110,120,132)
+         8: (111,121,133) #6F7985 srgb(111,121,133)
+         8: (111,121,134) #6F7986 srgb(111,121,134)
+         6: (112,122,134) #707A86 srgb(112,122,134)
+        70: (113,123,135) #717B87 srgb(113,123,135)
+         5: (113,123,136) #717B88 srgb(113,123,136)
+         5: (114,124,136) #727C88 srgb(114,124,136)
+         3: (115,125,137) #737D89 srgb(115,125,137)
+         7: (116,126,137) #747E89 srgb(116,126,137)
+       242: (116,126,138) #747E8A srgb(116,126,138)
+         6: (117,127,139) #757F8B srgb(117,127,139)
+         6: (118,128,139) #76808B srgb(118,128,139)
+         2: (118,128,140) #76808C srgb(118,128,140)
+        11: (119,129,141) #77818D srgb(119,129,141)
+         9: (120,130,141) #78828D srgb(120,130,141)
+       105: (120,130,142) #78828E srgb(120,130,142)
+         4: (121,131,142) #79838E srgb(121,131,142)
+         4: (122,132,143) #7A848F srgb(122,132,143)
+         6: (122,132,144) #7A8490 srgb(122,132,144)
+         7: (123,133,144) #7B8590 srgb(123,133,144)
+        48: (124,134,145) #7C8691 srgb(124,134,145)
+         9: (125,134,146) #7D8692 srgb(125,134,146)
+         6: (125,135,146) #7D8792 srgb(125,135,146)
+         1: (126,136,147) #7E8893 srgb(126,136,147)
+         8: (127,136,147) #7F8893 srgb(127,136,147)
+        16: (127,137,148) #7F8994 srgb(127,137,148)
+       193: (128,138,149) #808A95 srgb(128,138,149)
+         7: (129,138,149) #818A95 srgb(129,138,149)
+         4: (129,139,150) #818B96 srgb(129,139,150)
+         7: (130,140,151) #828C97 srgb(130,140,151)
+         1: (131,140,151) #838C97 srgb(131,140,151)
+         9: (132,141,152) #848D98 srgb(132,141,152)
+       141: (132,142,152) #848E98 srgb(132,142,152)
+         3: (133,142,153) #858E99 srgb(133,142,153)
+        12: (134,143,154) #868F9A srgb(134,143,154)
+         3: (134,144,154) #86909A srgb(134,144,154)
+         3: (135,144,155) #87909B srgb(135,144,155)
+       116: (136,145,156) #88919C srgb(136,145,156)
+         9: (136,146,156) #88929C srgb(136,146,156)
+         8: (137,146,157) #89929D srgb(137,146,157)
+         9: (138,147,157) #8A939D srgb(138,147,157)
+        14: (138,148,158) #8A949E srgb(138,148,158)
+         1: (139,148,159) #8B949F srgb(139,148,159)
+       168: (140,149,159) #8C959F srgb(140,149,159)
+        27: (141,150,160) #8D96A0 srgb(141,150,160)
+        14: (141,150,161) #8D96A1 srgb(141,150,161)
+        15: (142,151,161) #8E97A1 srgb(142,151,161)
+        28: (143,152,162) #8F98A2 srgb(143,152,162)
+    523861: (144,153,163) #9099A3 srgb(144,153,163)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgb(223,223,223)
+  Matte color: grey74
+  Transparent color: black
+  Compose: Over
+  Page geometry: 900x600+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 0 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: 527e9858e4b7a810a822f8fb0bb6c45175d22a25456de61daf5a762060583191
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 540K
+  Pixels per second: 6MB
+  User time: 0.100u
+  Elapsed time: 0:01.089
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 900x600+0+0
+  Resolution: 72x72
+  Print size: 12.5x8.33333
+  Units: Undefined
+  Type: PaletteAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 4-bit
+    blue: 8-bit
+    alpha: 1-bit
+  Channel statistics:
+    Red:
+      min: 144 (0.564706)
+      max: 144 (0.564706)
+      mean: 144 (0.564706)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Green:
+      min: 153 (0.6)
+      max: 153 (0.6)
+      mean: 153 (0.6)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Blue:
+      min: 163 (0.639216)
+      max: 163 (0.639216)
+      mean: 163 (0.639216)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 163 (0.639216)
+      mean: 115 (0.45098)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+  Colors: 1
+  Histogram:
+    540000: (144,153,163,255) #9099A3 srgba(144,153,163,1)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Compose: Over
+  Page geometry: 900x600+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 1 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    label: Matte
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: 264bc63fb59a8910b04382a588a84c74818c493c38d7df691f00cef2fbca9e61
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    psd:layer.opacity: 0
+    psd:layer.x: 0ld
+    psd:layer.y: 0
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 540K
+  Pixels per second: 1.019MB
+  User time: 0.520u
+  Elapsed time: 0:01.529
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 142x179+0+0
+  Resolution: 72x72
+  Print size: 1.97222x2.48611
+  Units: Undefined
+  Type: PaletteAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 2-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 8-bit
+  Channel statistics:
+    Red:
+      min: 85 (0.333333)
+      max: 85 (0.333333)
+      mean: 85 (0.333333)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Green:
+      min: 96 (0.376471)
+      max: 96 (0.376471)
+      mean: 96 (0.376471)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Blue:
+      min: 110 (0.431373)
+      max: 110 (0.431373)
+      mean: 110 (0.431373)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Alpha:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 130.446 (0.511552)
+      standard deviation: 126.321 (0.495378)
+      kurtosis: -1.98394
+      skewness: 0.0471305
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 103.889 (0.407406)
+      standard deviation: 63.1606 (0.247689)
+      kurtosis: 1.83488
+      skewness: 1.07765
+  Alpha: srgba(85,96,110,0)   #55606E00
+  Colors: 86
+  Histogram:
+     12593: ( 85, 96,110,255) #55606E srgba(85,96,110,1)
+     12051: ( 85, 96,110,  0) #55606E00 srgba(85,96,110,0)
+        27: ( 85, 96,110, 15) #55606E0F srgba(85,96,110,0.0588235)
+        25: ( 85, 96,110,  3) #55606E03 srgba(85,96,110,0.0117647)
+        24: ( 85, 96,110,237) #55606EED srgba(85,96,110,0.929412)
+        22: ( 85, 96,110,204) #55606ECC srgba(85,96,110,0.8)
+        20: ( 85, 96,110,246) #55606EF6 srgba(85,96,110,0.964706)
+        20: ( 85, 96,110,252) #55606EFC srgba(85,96,110,0.988235)
+        19: ( 85, 96,110,240) #55606EF0 srgba(85,96,110,0.941176)
+        17: ( 85, 96,110, 18) #55606E12 srgba(85,96,110,0.0705882)
+        17: ( 85, 96,110,249) #55606EF9 srgba(85,96,110,0.976471)
+        16: ( 85, 96,110, 72) #55606E48 srgba(85,96,110,0.282353)
+        16: ( 85, 96,110,156) #55606E9C srgba(85,96,110,0.611765)
+        15: ( 85, 96,110,201) #55606EC9 srgba(85,96,110,0.788235)
+        15: ( 85, 96,110,  9) #55606E09 srgba(85,96,110,0.0352941)
+        14: ( 85, 96,110,168) #55606EA8 srgba(85,96,110,0.658824)
+        14: ( 85, 96,110,102) #55606E66 srgba(85,96,110,0.4)
+        14: ( 85, 96,110,207) #55606ECF srgba(85,96,110,0.811765)
+        14: ( 85, 96,110, 12) #55606E0C srgba(85,96,110,0.0470588)
+        14: ( 85, 96,110, 24) #55606E18 srgba(85,96,110,0.0941176)
+        13: ( 85, 96,110,228) #55606EE4 srgba(85,96,110,0.894118)
+        12: ( 85, 96,110,234) #55606EEA srgba(85,96,110,0.917647)
+        12: ( 85, 96,110,225) #55606EE1 srgba(85,96,110,0.882353)
+        12: ( 85, 96,110,153) #55606E99 srgba(85,96,110,0.6)
+        12: ( 85, 96,110, 45) #55606E2D srgba(85,96,110,0.176471)
+        11: ( 85, 96,110,198) #55606EC6 srgba(85,96,110,0.776471)
+        11: ( 85, 96,110,135) #55606E87 srgba(85,96,110,0.529412)
+        11: ( 85, 96,110,108) #55606E6C srgba(85,96,110,0.423529)
+        11: ( 85, 96,110,165) #55606EA5 srgba(85,96,110,0.647059)
+        10: ( 85, 96,110,231) #55606EE7 srgba(85,96,110,0.905882)
+        10: ( 85, 96,110, 51) #55606E33 srgba(85,96,110,0.2)
+         9: ( 85, 96,110,186) #55606EBA srgba(85,96,110,0.729412)
+         9: ( 85, 96,110,216) #55606ED8 srgba(85,96,110,0.847059)
+         9: ( 85, 96,110,219) #55606EDB srgba(85,96,110,0.858824)
+         9: ( 85, 96,110,105) #55606E69 srgba(85,96,110,0.411765)
+         9: ( 85, 96,110, 84) #55606E54 srgba(85,96,110,0.329412)
+         9: ( 85, 96,110, 27) #55606E1B srgba(85,96,110,0.105882)
+         9: ( 85, 96,110, 33) #55606E21 srgba(85,96,110,0.129412)
+         9: ( 85, 96,110, 54) #55606E36 srgba(85,96,110,0.211765)
+         8: ( 85, 96,110, 30) #55606E1E srgba(85,96,110,0.117647)
+         8: ( 85, 96,110,243) #55606EF3 srgba(85,96,110,0.952941)
+         8: ( 85, 96,110,177) #55606EB1 srgba(85,96,110,0.694118)
+         8: ( 85, 96,110,162) #55606EA2 srgba(85,96,110,0.635294)
+         8: ( 85, 96,110,150) #55606E96 srgba(85,96,110,0.588235)
+         8: ( 85, 96,110,147) #55606E93 srgba(85,96,110,0.576471)
+         8: ( 85, 96,110,144) #55606E90 srgba(85,96,110,0.564706)
+         8: ( 85, 96,110,141) #55606E8D srgba(85,96,110,0.552941)
+         8: ( 85, 96,110, 75) #55606E4B srgba(85,96,110,0.294118)
+         7: ( 85, 96,110,159) #55606E9F srgba(85,96,110,0.623529)
+         7: ( 85, 96,110,123) #55606E7B srgba(85,96,110,0.482353)
+         7: ( 85, 96,110, 90) #55606E5A srgba(85,96,110,0.352941)
+         7: ( 85, 96,110, 87) #55606E57 srgba(85,96,110,0.341176)
+         7: ( 85, 96,110,222) #55606EDE srgba(85,96,110,0.870588)
+         7: ( 85, 96,110, 69) #55606E45 srgba(85,96,110,0.270588)
+         7: ( 85, 96,110, 66) #55606E42 srgba(85,96,110,0.258824)
+         7: ( 85, 96,110, 60) #55606E3C srgba(85,96,110,0.235294)
+         6: ( 85, 96,110, 36) #55606E24 srgba(85,96,110,0.141176)
+         6: ( 85, 96,110,183) #55606EB7 srgba(85,96,110,0.717647)
+         6: ( 85, 96,110, 81) #55606E51 srgba(85,96,110,0.317647)
+         6: ( 85, 96,110,138) #55606E8A srgba(85,96,110,0.541176)
+         6: ( 85, 96,110,114) #55606E72 srgba(85,96,110,0.447059)
+         6: ( 85, 96,110,174) #55606EAE srgba(85,96,110,0.682353)
+         6: ( 85, 96,110,213) #55606ED5 srgba(85,96,110,0.835294)
+         6: ( 85, 96,110,192) #55606EC0 srgba(85,96,110,0.752941)
+         6: ( 85, 96,110, 93) #55606E5D srgba(85,96,110,0.364706)
+         6: ( 85, 96,110,117) #55606E75 srgba(85,96,110,0.458824)
+         5: ( 85, 96,110,132) #55606E84 srgba(85,96,110,0.517647)
+         5: ( 85, 96,110,129) #55606E81 srgba(85,96,110,0.505882)
+         5: ( 85, 96,110,171) #55606EAB srgba(85,96,110,0.670588)
+         5: ( 85, 96,110,210) #55606ED2 srgba(85,96,110,0.823529)
+         4: ( 85, 96,110,195) #55606EC3 srgba(85,96,110,0.764706)
+         4: ( 85, 96,110, 63) #55606E3F srgba(85,96,110,0.247059)
+         4: ( 85, 96,110, 99) #55606E63 srgba(85,96,110,0.388235)
+         4: ( 85, 96,110,189) #55606EBD srgba(85,96,110,0.741176)
+         4: ( 85, 96,110, 96) #55606E60 srgba(85,96,110,0.376471)
+         4: ( 85, 96,110,120) #55606E78 srgba(85,96,110,0.470588)
+         3: ( 85, 96,110,  6) #55606E06 srgba(85,96,110,0.0235294)
+         3: ( 85, 96,110, 48) #55606E30 srgba(85,96,110,0.188235)
+         3: ( 85, 96,110, 42) #55606E2A srgba(85,96,110,0.164706)
+         3: ( 85, 96,110,126) #55606E7E srgba(85,96,110,0.494118)
+         3: ( 85, 96,110, 39) #55606E27 srgba(85,96,110,0.152941)
+         2: ( 85, 96,110,180) #55606EB4 srgba(85,96,110,0.705882)
+         2: ( 85, 96,110,111) #55606E6F srgba(85,96,110,0.435294)
+         1: ( 85, 96,110, 21) #55606E15 srgba(85,96,110,0.0823529)
+         1: ( 85, 96,110, 78) #55606E4E srgba(85,96,110,0.305882)
+         1: ( 85, 96,110, 57) #55606E39 srgba(85,96,110,0.223529)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Compose: Over
+  Page geometry: 142x179+379+210
+  Origin geometry: +379+210
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 2 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    label: Logo_Glyph
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: 1431314ae7e209ec0491ed6b263c79b83aaeba85dd3a65543a1e9f5bd879ca12
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    psd:layer.opacity: 0
+    psd:layer.x: 379ld
+    psd:layer.y: 210
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 25.4K
+  Pixels per second: 25.2KB
+  User time: 1.000u
+  Elapsed time: 0:02.009
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 361x31+0+0
+  Resolution: 72x72
+  Print size: 5.01389x0.430556
+  Units: Undefined
+  Type: PaletteAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 2-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 4-bit
+  Channel statistics:
+    Red:
+      min: 85 (0.333333)
+      max: 85 (0.333333)
+      mean: 85 (0.333333)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Green:
+      min: 96 (0.376471)
+      max: 96 (0.376471)
+      mean: 96 (0.376471)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Blue:
+      min: 110 (0.431373)
+      max: 110 (0.431373)
+      mean: 110 (0.431373)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Alpha:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 43.5368 (0.170732)
+      standard deviation: 86.7027 (0.340011)
+      kurtosis: 1.27819
+      skewness: -1.72778
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 125.616 (0.492611)
+      standard deviation: 43.3514 (0.170005)
+      kurtosis: 14.3656
+      skewness: 4.12966
+  Alpha: srgba(85,96,110,0)   #55606E00
+  Colors: 16
+  Histogram:
+      8419: ( 85, 96,110,  0) #55606E00 srgba(85,96,110,0)
+      1105: ( 85, 96,110,255) #55606E srgba(85,96,110,1)
+       238: ( 85, 96,110,119) #55606E77 srgba(85,96,110,0.466667)
+       212: ( 85, 96,110,187) #55606EBB srgba(85,96,110,0.733333)
+       186: ( 85, 96,110, 68) #55606E44 srgba(85,96,110,0.266667)
+       151: ( 85, 96,110, 17) #55606E11 srgba(85,96,110,0.0666667)
+       143: ( 85, 96,110,238) #55606EEE srgba(85,96,110,0.933333)
+       131: ( 85, 96,110, 51) #55606E33 srgba(85,96,110,0.2)
+       110: ( 85, 96,110, 34) #55606E22 srgba(85,96,110,0.133333)
+        98: ( 85, 96,110,153) #55606E99 srgba(85,96,110,0.6)
+        91: ( 85, 96,110,102) #55606E66 srgba(85,96,110,0.4)
+        90: ( 85, 96,110,204) #55606ECC srgba(85,96,110,0.8)
+        74: ( 85, 96,110,221) #55606EDD srgba(85,96,110,0.866667)
+        59: ( 85, 96,110,136) #55606E88 srgba(85,96,110,0.533333)
+        43: ( 85, 96,110,170) #55606EAA srgba(85,96,110,0.666667)
+        41: ( 85, 96,110, 85) #55606E55 srgba(85,96,110,0.333333)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Compose: Over
+  Page geometry: 361x31+275+435
+  Origin geometry: +275+435
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 3 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    label: Make a change and save.
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: 55bc683a36f0811302eed1a55d69799dcb916b8741afd9a5769a46855516dce8
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    psd:layer.opacity: 0
+    psd:layer.x: 275ld
+    psd:layer.y: 435
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 11.2K
+  Pixels per second: 10.6KB
+  User time: 1.050u
+  Elapsed time: 0:02.059
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 900x600+0+0
+  Resolution: 72x72
+  Print size: 12.5x8.33333
+  Units: Undefined
+  Type: PaletteAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 4-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 1-bit
+  Channel statistics:
+    Red:
+      min: 221 (0.866667)
+      max: 221 (0.866667)
+      mean: 221 (0.866667)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Green:
+      min: 74 (0.290196)
+      max: 74 (0.290196)
+      mean: 74 (0.290196)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Blue:
+      min: 56 (0.219608)
+      max: 56 (0.219608)
+      mean: 56 (0.219608)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 221 (0.866667)
+      mean: 87.75 (0.344118)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+  Colors: 1
+  Histogram:
+    540000: (221, 74, 56,255) #DD4A38 srgba(221,74,56,1)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Compose: None
+  Page geometry: 900x600+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 4 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    label: Matte
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: 7287237dcfc4645b2e160f39a9a39f10c16d92a8ad5e405b9b836cbdd18e7a34
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    psd:layer.opacity: 0
+    psd:layer.x: 0ld
+    psd:layer.y: 0
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 540K
+  Pixels per second: 495KB
+  User time: 1.080u
+  Elapsed time: 0:02.089
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 142x179+0+0
+  Resolution: 72x72
+  Print size: 1.97222x2.48611
+  Units: Undefined
+  Type: PaletteAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 8-bit
+  Channel statistics:
+    Red:
+      min: 167 (0.654902)
+      max: 167 (0.654902)
+      mean: 167 (0.654902)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Green:
+      min: 47 (0.184314)
+      max: 47 (0.184314)
+      mean: 47 (0.184314)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Blue:
+      min: 32 (0.12549)
+      max: 32 (0.12549)
+      mean: 32 (0.12549)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Alpha:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 130.446 (0.511552)
+      standard deviation: 126.321 (0.495378)
+      kurtosis: -1.98394
+      skewness: 0.0471305
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 92.6386 (0.363289)
+      standard deviation: 63.1606 (0.247689)
+      kurtosis: 3.56398
+      skewness: 1.73488
+  Alpha: srgba(167,47,32,0)   #A72F2000
+  Colors: 86
+  Histogram:
+     12593: (167, 47, 32,255) #A72F20 srgba(167,47,32,1)
+     12051: (167, 47, 32,  0) #A72F2000 srgba(167,47,32,0)
+        27: (167, 47, 32, 15) #A72F200F srgba(167,47,32,0.0588235)
+        25: (167, 47, 32,  3) #A72F2003 srgba(167,47,32,0.0117647)
+        24: (167, 47, 32,237) #A72F20ED srgba(167,47,32,0.929412)
+        22: (167, 47, 32,204) #A72F20CC srgba(167,47,32,0.8)
+        20: (167, 47, 32,246) #A72F20F6 srgba(167,47,32,0.964706)
+        20: (167, 47, 32,252) #A72F20FC srgba(167,47,32,0.988235)
+        19: (167, 47, 32,240) #A72F20F0 srgba(167,47,32,0.941176)
+        17: (167, 47, 32, 18) #A72F2012 srgba(167,47,32,0.0705882)
+        17: (167, 47, 32,249) #A72F20F9 srgba(167,47,32,0.976471)
+        16: (167, 47, 32, 72) #A72F2048 srgba(167,47,32,0.282353)
+        16: (167, 47, 32,156) #A72F209C srgba(167,47,32,0.611765)
+        15: (167, 47, 32,201) #A72F20C9 srgba(167,47,32,0.788235)
+        15: (167, 47, 32,  9) #A72F2009 srgba(167,47,32,0.0352941)
+        14: (167, 47, 32,168) #A72F20A8 srgba(167,47,32,0.658824)
+        14: (167, 47, 32,102) #A72F2066 srgba(167,47,32,0.4)
+        14: (167, 47, 32,207) #A72F20CF srgba(167,47,32,0.811765)
+        14: (167, 47, 32, 12) #A72F200C srgba(167,47,32,0.0470588)
+        14: (167, 47, 32, 24) #A72F2018 srgba(167,47,32,0.0941176)
+        13: (167, 47, 32,228) #A72F20E4 srgba(167,47,32,0.894118)
+        12: (167, 47, 32,234) #A72F20EA srgba(167,47,32,0.917647)
+        12: (167, 47, 32,225) #A72F20E1 srgba(167,47,32,0.882353)
+        12: (167, 47, 32,153) #A72F2099 srgba(167,47,32,0.6)
+        12: (167, 47, 32, 45) #A72F202D srgba(167,47,32,0.176471)
+        11: (167, 47, 32,198) #A72F20C6 srgba(167,47,32,0.776471)
+        11: (167, 47, 32,135) #A72F2087 srgba(167,47,32,0.529412)
+        11: (167, 47, 32,108) #A72F206C srgba(167,47,32,0.423529)
+        11: (167, 47, 32,165) #A72F20A5 srgba(167,47,32,0.647059)
+        10: (167, 47, 32,231) #A72F20E7 srgba(167,47,32,0.905882)
+        10: (167, 47, 32, 51) #A72F2033 srgba(167,47,32,0.2)
+         9: (167, 47, 32,186) #A72F20BA srgba(167,47,32,0.729412)
+         9: (167, 47, 32,216) #A72F20D8 srgba(167,47,32,0.847059)
+         9: (167, 47, 32,219) #A72F20DB srgba(167,47,32,0.858824)
+         9: (167, 47, 32,105) #A72F2069 srgba(167,47,32,0.411765)
+         9: (167, 47, 32, 84) #A72F2054 srgba(167,47,32,0.329412)
+         9: (167, 47, 32, 27) #A72F201B srgba(167,47,32,0.105882)
+         9: (167, 47, 32, 33) #A72F2021 srgba(167,47,32,0.129412)
+         9: (167, 47, 32, 54) #A72F2036 srgba(167,47,32,0.211765)
+         8: (167, 47, 32, 30) #A72F201E srgba(167,47,32,0.117647)
+         8: (167, 47, 32,243) #A72F20F3 srgba(167,47,32,0.952941)
+         8: (167, 47, 32,177) #A72F20B1 srgba(167,47,32,0.694118)
+         8: (167, 47, 32,162) #A72F20A2 srgba(167,47,32,0.635294)
+         8: (167, 47, 32,150) #A72F2096 srgba(167,47,32,0.588235)
+         8: (167, 47, 32,147) #A72F2093 srgba(167,47,32,0.576471)
+         8: (167, 47, 32,144) #A72F2090 srgba(167,47,32,0.564706)
+         8: (167, 47, 32,141) #A72F208D srgba(167,47,32,0.552941)
+         8: (167, 47, 32, 75) #A72F204B srgba(167,47,32,0.294118)
+         7: (167, 47, 32,159) #A72F209F srgba(167,47,32,0.623529)
+         7: (167, 47, 32,123) #A72F207B srgba(167,47,32,0.482353)
+         7: (167, 47, 32, 90) #A72F205A srgba(167,47,32,0.352941)
+         7: (167, 47, 32, 87) #A72F2057 srgba(167,47,32,0.341176)
+         7: (167, 47, 32,222) #A72F20DE srgba(167,47,32,0.870588)
+         7: (167, 47, 32, 69) #A72F2045 srgba(167,47,32,0.270588)
+         7: (167, 47, 32, 66) #A72F2042 srgba(167,47,32,0.258824)
+         7: (167, 47, 32, 60) #A72F203C srgba(167,47,32,0.235294)
+         6: (167, 47, 32, 36) #A72F2024 srgba(167,47,32,0.141176)
+         6: (167, 47, 32,183) #A72F20B7 srgba(167,47,32,0.717647)
+         6: (167, 47, 32, 81) #A72F2051 srgba(167,47,32,0.317647)
+         6: (167, 47, 32,138) #A72F208A srgba(167,47,32,0.541176)
+         6: (167, 47, 32,114) #A72F2072 srgba(167,47,32,0.447059)
+         6: (167, 47, 32,174) #A72F20AE srgba(167,47,32,0.682353)
+         6: (167, 47, 32,213) #A72F20D5 srgba(167,47,32,0.835294)
+         6: (167, 47, 32,192) #A72F20C0 srgba(167,47,32,0.752941)
+         6: (167, 47, 32, 93) #A72F205D srgba(167,47,32,0.364706)
+         6: (167, 47, 32,117) #A72F2075 srgba(167,47,32,0.458824)
+         5: (167, 47, 32,132) #A72F2084 srgba(167,47,32,0.517647)
+         5: (167, 47, 32,129) #A72F2081 srgba(167,47,32,0.505882)
+         5: (167, 47, 32,171) #A72F20AB srgba(167,47,32,0.670588)
+         5: (167, 47, 32,210) #A72F20D2 srgba(167,47,32,0.823529)
+         4: (167, 47, 32,195) #A72F20C3 srgba(167,47,32,0.764706)
+         4: (167, 47, 32, 63) #A72F203F srgba(167,47,32,0.247059)
+         4: (167, 47, 32, 99) #A72F2063 srgba(167,47,32,0.388235)
+         4: (167, 47, 32,189) #A72F20BD srgba(167,47,32,0.741176)
+         4: (167, 47, 32, 96) #A72F2060 srgba(167,47,32,0.376471)
+         4: (167, 47, 32,120) #A72F2078 srgba(167,47,32,0.470588)
+         3: (167, 47, 32,  6) #A72F2006 srgba(167,47,32,0.0235294)
+         3: (167, 47, 32, 48) #A72F2030 srgba(167,47,32,0.188235)
+         3: (167, 47, 32, 42) #A72F202A srgba(167,47,32,0.164706)
+         3: (167, 47, 32,126) #A72F207E srgba(167,47,32,0.494118)
+         3: (167, 47, 32, 39) #A72F2027 srgba(167,47,32,0.152941)
+         2: (167, 47, 32,180) #A72F20B4 srgba(167,47,32,0.705882)
+         2: (167, 47, 32,111) #A72F206F srgba(167,47,32,0.435294)
+         1: (167, 47, 32, 21) #A72F2015 srgba(167,47,32,0.0823529)
+         1: (167, 47, 32, 78) #A72F204E srgba(167,47,32,0.305882)
+         1: (167, 47, 32, 57) #A72F2039 srgba(167,47,32,0.223529)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Compose: None
+  Page geometry: 142x179+379+210
+  Origin geometry: +379+210
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 5 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    label: Logo_Glyph
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: 48bb7acb420942f939a87df1984036ec5248a71beaa935aad3468f09765e35e3
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    psd:layer.opacity: 0
+    psd:layer.x: 379ld
+    psd:layer.y: 210
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 25.4K
+  Pixels per second: 16.1KB
+  User time: 1.560u
+  Elapsed time: 0:02.579
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 361x31+0+0
+  Resolution: 72x72
+  Print size: 5.01389x0.430556
+  Units: Undefined
+  Type: PaletteAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 4-bit
+  Channel statistics:
+    Red:
+      min: 138 (0.541176)
+      max: 138 (0.541176)
+      mean: 138 (0.541176)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Green:
+      min: 35 (0.137255)
+      max: 35 (0.137255)
+      mean: 35 (0.137255)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Blue:
+      min: 22 (0.0862745)
+      max: 22 (0.0862745)
+      mean: 22 (0.0862745)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Alpha:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 43.5368 (0.170732)
+      standard deviation: 86.7027 (0.340011)
+      kurtosis: 1.27819
+      skewness: -1.72778
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 101.616 (0.398493)
+      standard deviation: 43.3514 (0.170005)
+      kurtosis: 32.2802
+      skewness: 5.90547
+  Alpha: srgba(138,35,22,0)   #8A231600
+  Colors: 16
+  Histogram:
+      8419: (138, 35, 22,  0) #8A231600 srgba(138,35,22,0)
+      1105: (138, 35, 22,255) #8A2316 srgba(138,35,22,1)
+       238: (138, 35, 22,119) #8A231677 srgba(138,35,22,0.466667)
+       212: (138, 35, 22,187) #8A2316BB srgba(138,35,22,0.733333)
+       186: (138, 35, 22, 68) #8A231644 srgba(138,35,22,0.266667)
+       151: (138, 35, 22, 17) #8A231611 srgba(138,35,22,0.0666667)
+       143: (138, 35, 22,238) #8A2316EE srgba(138,35,22,0.933333)
+       131: (138, 35, 22, 51) #8A231633 srgba(138,35,22,0.2)
+       110: (138, 35, 22, 34) #8A231622 srgba(138,35,22,0.133333)
+        98: (138, 35, 22,153) #8A231699 srgba(138,35,22,0.6)
+        91: (138, 35, 22,102) #8A231666 srgba(138,35,22,0.4)
+        90: (138, 35, 22,204) #8A2316CC srgba(138,35,22,0.8)
+        74: (138, 35, 22,221) #8A2316DD srgba(138,35,22,0.866667)
+        59: (138, 35, 22,136) #8A231688 srgba(138,35,22,0.533333)
+        43: (138, 35, 22,170) #8A2316AA srgba(138,35,22,0.666667)
+        41: (138, 35, 22, 85) #8A231655 srgba(138,35,22,0.333333)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Compose: None
+  Page geometry: 361x31+275+435
+  Origin geometry: +275+435
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 6 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    label: Make a change and save.
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: 52aaf70c458764653ebef8b86aaa3fe0922919a0bcf2d5bc661f55934658ad6c
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    psd:layer.opacity: 0
+    psd:layer.x: 275ld
+    psd:layer.y: 435
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 11.2K
+  Pixels per second: 6.87KB
+  User time: 1.610u
+  Elapsed time: 0:02.630
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 900x600+0+0
+  Resolution: 72x72
+  Print size: 12.5x8.33333
+  Units: Undefined
+  Type: PaletteAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 1-bit
+  Channel statistics:
+    Red:
+      min: 37 (0.145098)
+      max: 37 (0.145098)
+      mean: 37 (0.145098)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Green:
+      min: 174 (0.682353)
+      max: 174 (0.682353)
+      mean: 174 (0.682353)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Blue:
+      min: 144 (0.564706)
+      max: 144 (0.564706)
+      mean: 144 (0.564706)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Alpha:
+      min: 255 (1)
+      max: 255 (1)
+      mean: 255 (1)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 174 (0.682353)
+      mean: 88.75 (0.348039)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+  Colors: 1
+  Histogram:
+    540000: ( 37,174,144,255) #25AE90 srgba(37,174,144,1)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Compose: None
+  Page geometry: 900x600+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 7 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    label: Matte
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: 11d7c083da55f0bd744cbb12906fb9fa2c0aa86e4f016b00a0912e28397a2079
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    psd:layer.opacity: 0
+    psd:layer.x: 0ld
+    psd:layer.y: 0
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 540K
+  Pixels per second: 325KB
+  User time: 1.640u
+  Elapsed time: 0:02.660
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 142x179+0+0
+  Resolution: 72x72
+  Print size: 1.97222x2.48611
+  Units: Undefined
+  Type: PaletteAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 8-bit
+  Channel statistics:
+    Red:
+      min: 19 (0.0745098)
+      max: 19 (0.0745098)
+      mean: 19 (0.0745098)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Green:
+      min: 120 (0.470588)
+      max: 120 (0.470588)
+      mean: 120 (0.470588)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Blue:
+      min: 98 (0.384314)
+      max: 98 (0.384314)
+      mean: 98 (0.384314)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Alpha:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 130.446 (0.511552)
+      standard deviation: 126.321 (0.495378)
+      kurtosis: -1.98394
+      skewness: 0.0471305
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 90.3886 (0.354465)
+      standard deviation: 63.1606 (0.247689)
+      kurtosis: 3.46539
+      skewness: 1.42185
+  Alpha: srgba(19,120,98,0)   #13786200
+  Colors: 86
+  Histogram:
+     12593: ( 19,120, 98,255) #137862 srgba(19,120,98,1)
+     12051: ( 19,120, 98,  0) #13786200 srgba(19,120,98,0)
+        27: ( 19,120, 98, 15) #1378620F srgba(19,120,98,0.0588235)
+        25: ( 19,120, 98,  3) #13786203 srgba(19,120,98,0.0117647)
+        24: ( 19,120, 98,237) #137862ED srgba(19,120,98,0.929412)
+        22: ( 19,120, 98,204) #137862CC srgba(19,120,98,0.8)
+        20: ( 19,120, 98,246) #137862F6 srgba(19,120,98,0.964706)
+        20: ( 19,120, 98,252) #137862FC srgba(19,120,98,0.988235)
+        19: ( 19,120, 98,240) #137862F0 srgba(19,120,98,0.941176)
+        17: ( 19,120, 98, 18) #13786212 srgba(19,120,98,0.0705882)
+        17: ( 19,120, 98,249) #137862F9 srgba(19,120,98,0.976471)
+        16: ( 19,120, 98, 72) #13786248 srgba(19,120,98,0.282353)
+        16: ( 19,120, 98,156) #1378629C srgba(19,120,98,0.611765)
+        15: ( 19,120, 98,201) #137862C9 srgba(19,120,98,0.788235)
+        15: ( 19,120, 98,  9) #13786209 srgba(19,120,98,0.0352941)
+        14: ( 19,120, 98,168) #137862A8 srgba(19,120,98,0.658824)
+        14: ( 19,120, 98,102) #13786266 srgba(19,120,98,0.4)
+        14: ( 19,120, 98,207) #137862CF srgba(19,120,98,0.811765)
+        14: ( 19,120, 98, 12) #1378620C srgba(19,120,98,0.0470588)
+        14: ( 19,120, 98, 24) #13786218 srgba(19,120,98,0.0941176)
+        13: ( 19,120, 98,228) #137862E4 srgba(19,120,98,0.894118)
+        12: ( 19,120, 98,234) #137862EA srgba(19,120,98,0.917647)
+        12: ( 19,120, 98,225) #137862E1 srgba(19,120,98,0.882353)
+        12: ( 19,120, 98,153) #13786299 srgba(19,120,98,0.6)
+        12: ( 19,120, 98, 45) #1378622D srgba(19,120,98,0.176471)
+        11: ( 19,120, 98,198) #137862C6 srgba(19,120,98,0.776471)
+        11: ( 19,120, 98,135) #13786287 srgba(19,120,98,0.529412)
+        11: ( 19,120, 98,108) #1378626C srgba(19,120,98,0.423529)
+        11: ( 19,120, 98,165) #137862A5 srgba(19,120,98,0.647059)
+        10: ( 19,120, 98,231) #137862E7 srgba(19,120,98,0.905882)
+        10: ( 19,120, 98, 51) #13786233 srgba(19,120,98,0.2)
+         9: ( 19,120, 98,186) #137862BA srgba(19,120,98,0.729412)
+         9: ( 19,120, 98,216) #137862D8 srgba(19,120,98,0.847059)
+         9: ( 19,120, 98,219) #137862DB srgba(19,120,98,0.858824)
+         9: ( 19,120, 98,105) #13786269 srgba(19,120,98,0.411765)
+         9: ( 19,120, 98, 84) #13786254 srgba(19,120,98,0.329412)
+         9: ( 19,120, 98, 27) #1378621B srgba(19,120,98,0.105882)
+         9: ( 19,120, 98, 33) #13786221 srgba(19,120,98,0.129412)
+         9: ( 19,120, 98, 54) #13786236 srgba(19,120,98,0.211765)
+         8: ( 19,120, 98, 30) #1378621E srgba(19,120,98,0.117647)
+         8: ( 19,120, 98,243) #137862F3 srgba(19,120,98,0.952941)
+         8: ( 19,120, 98,177) #137862B1 srgba(19,120,98,0.694118)
+         8: ( 19,120, 98,162) #137862A2 srgba(19,120,98,0.635294)
+         8: ( 19,120, 98,150) #13786296 srgba(19,120,98,0.588235)
+         8: ( 19,120, 98,147) #13786293 srgba(19,120,98,0.576471)
+         8: ( 19,120, 98,144) #13786290 srgba(19,120,98,0.564706)
+         8: ( 19,120, 98,141) #1378628D srgba(19,120,98,0.552941)
+         8: ( 19,120, 98, 75) #1378624B srgba(19,120,98,0.294118)
+         7: ( 19,120, 98,159) #1378629F srgba(19,120,98,0.623529)
+         7: ( 19,120, 98,123) #1378627B srgba(19,120,98,0.482353)
+         7: ( 19,120, 98, 90) #1378625A srgba(19,120,98,0.352941)
+         7: ( 19,120, 98, 87) #13786257 srgba(19,120,98,0.341176)
+         7: ( 19,120, 98,222) #137862DE srgba(19,120,98,0.870588)
+         7: ( 19,120, 98, 69) #13786245 srgba(19,120,98,0.270588)
+         7: ( 19,120, 98, 66) #13786242 srgba(19,120,98,0.258824)
+         7: ( 19,120, 98, 60) #1378623C srgba(19,120,98,0.235294)
+         6: ( 19,120, 98, 36) #13786224 srgba(19,120,98,0.141176)
+         6: ( 19,120, 98,183) #137862B7 srgba(19,120,98,0.717647)
+         6: ( 19,120, 98, 81) #13786251 srgba(19,120,98,0.317647)
+         6: ( 19,120, 98,138) #1378628A srgba(19,120,98,0.541176)
+         6: ( 19,120, 98,114) #13786272 srgba(19,120,98,0.447059)
+         6: ( 19,120, 98,174) #137862AE srgba(19,120,98,0.682353)
+         6: ( 19,120, 98,213) #137862D5 srgba(19,120,98,0.835294)
+         6: ( 19,120, 98,192) #137862C0 srgba(19,120,98,0.752941)
+         6: ( 19,120, 98, 93) #1378625D srgba(19,120,98,0.364706)
+         6: ( 19,120, 98,117) #13786275 srgba(19,120,98,0.458824)
+         5: ( 19,120, 98,132) #13786284 srgba(19,120,98,0.517647)
+         5: ( 19,120, 98,129) #13786281 srgba(19,120,98,0.505882)
+         5: ( 19,120, 98,171) #137862AB srgba(19,120,98,0.670588)
+         5: ( 19,120, 98,210) #137862D2 srgba(19,120,98,0.823529)
+         4: ( 19,120, 98,195) #137862C3 srgba(19,120,98,0.764706)
+         4: ( 19,120, 98, 63) #1378623F srgba(19,120,98,0.247059)
+         4: ( 19,120, 98, 99) #13786263 srgba(19,120,98,0.388235)
+         4: ( 19,120, 98,189) #137862BD srgba(19,120,98,0.741176)
+         4: ( 19,120, 98, 96) #13786260 srgba(19,120,98,0.376471)
+         4: ( 19,120, 98,120) #13786278 srgba(19,120,98,0.470588)
+         3: ( 19,120, 98,  6) #13786206 srgba(19,120,98,0.0235294)
+         3: ( 19,120, 98, 48) #13786230 srgba(19,120,98,0.188235)
+         3: ( 19,120, 98, 42) #1378622A srgba(19,120,98,0.164706)
+         3: ( 19,120, 98,126) #1378627E srgba(19,120,98,0.494118)
+         3: ( 19,120, 98, 39) #13786227 srgba(19,120,98,0.152941)
+         2: ( 19,120, 98,180) #137862B4 srgba(19,120,98,0.705882)
+         2: ( 19,120, 98,111) #1378626F srgba(19,120,98,0.435294)
+         1: ( 19,120, 98, 21) #13786215 srgba(19,120,98,0.0823529)
+         1: ( 19,120, 98, 78) #1378624E srgba(19,120,98,0.305882)
+         1: ( 19,120, 98, 57) #13786239 srgba(19,120,98,0.223529)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Compose: None
+  Page geometry: 142x179+379+210
+  Origin geometry: +379+210
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 8 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    label: Logo_Glyph
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: b01a20c4b213d74a6500eabba2f7bdd92d332e4dc84448b5524db65099cd7125
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    psd:layer.opacity: 0
+    psd:layer.x: 379ld
+    psd:layer.y: 210
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 25.4K
+  Pixels per second: 11.9KB
+  User time: 2.120u
+  Elapsed time: 0:03.140
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
+Image: example.psd
+  Format: PSD (Adobe Photoshop bitmap)
+  Class: DirectClass
+  Geometry: 361x31+0+0
+  Resolution: 72x72
+  Print size: 5.01389x0.430556
+  Units: Undefined
+  Type: PaletteAlpha
+  Endianess: Undefined
+  Colorspace: sRGB
+  Depth: 8-bit
+  Channel depth:
+    red: 8-bit
+    green: 8-bit
+    blue: 8-bit
+    alpha: 4-bit
+  Channel statistics:
+    Red:
+      min: 19 (0.0745098)
+      max: 19 (0.0745098)
+      mean: 19 (0.0745098)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Green:
+      min: 120 (0.470588)
+      max: 120 (0.470588)
+      mean: 120 (0.470588)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Blue:
+      min: 98 (0.384314)
+      max: 98 (0.384314)
+      mean: 98 (0.384314)
+      standard deviation: 0 (0)
+      kurtosis: 0
+      skewness: 0
+    Alpha:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 43.5368 (0.170732)
+      standard deviation: 86.7027 (0.340011)
+      kurtosis: 1.27819
+      skewness: -1.72778
+  Image statistics:
+    Overall:
+      min: 0 (0)
+      max: 255 (1)
+      mean: 112.116 (0.43967)
+      standard deviation: 43.3514 (0.170005)
+      kurtosis: 26.1672
+      skewness: 3.94378
+  Alpha: srgba(19,120,98,0)   #13786200
+  Colors: 16
+  Histogram:
+      8419: ( 19,120, 98,  0) #13786200 srgba(19,120,98,0)
+      1105: ( 19,120, 98,255) #137862 srgba(19,120,98,1)
+       238: ( 19,120, 98,119) #13786277 srgba(19,120,98,0.466667)
+       212: ( 19,120, 98,187) #137862BB srgba(19,120,98,0.733333)
+       186: ( 19,120, 98, 68) #13786244 srgba(19,120,98,0.266667)
+       151: ( 19,120, 98, 17) #13786211 srgba(19,120,98,0.0666667)
+       143: ( 19,120, 98,238) #137862EE srgba(19,120,98,0.933333)
+       131: ( 19,120, 98, 51) #13786233 srgba(19,120,98,0.2)
+       110: ( 19,120, 98, 34) #13786222 srgba(19,120,98,0.133333)
+        98: ( 19,120, 98,153) #13786299 srgba(19,120,98,0.6)
+        91: ( 19,120, 98,102) #13786266 srgba(19,120,98,0.4)
+        90: ( 19,120, 98,204) #137862CC srgba(19,120,98,0.8)
+        74: ( 19,120, 98,221) #137862DD srgba(19,120,98,0.866667)
+        59: ( 19,120, 98,136) #13786288 srgba(19,120,98,0.533333)
+        43: ( 19,120, 98,170) #137862AA srgba(19,120,98,0.666667)
+        41: ( 19,120, 98, 85) #13786255 srgba(19,120,98,0.333333)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33)
+    green primary: (0.3,0.6)
+    blue primary: (0.15,0.06)
+    white point: (0.3127,0.329)
+  Interlace: None
+  Background color: white
+  Border color: srgba(223,223,223,1)
+  Matte color: grey74
+  Transparent color: none
+  Compose: None
+  Page geometry: 361x31+275+435
+  Origin geometry: +275+435
+  Dispose: Undefined
+  Iterations: 0
+  Scene: 9 of 10
+  Compression: RLE
+  Orientation: Undefined
+  Properties:
+    date:create: 2013-10-11T22:42:40-04:00
+    date:modify: 2013-10-11T22:42:40-04:00
+    dc:format: application/vnd.adobe.photoshop
+    label: Make a change and save.
+    photoshop:ColorMode: 3
+    photoshop:ICCProfile: sRGB IEC61966-2.1
+    rdf:Bag: 
+               
+               
+            
+    signature: 60b32aa1bd0adf75838bcdb3a4b606073bdad62992c26e4b9476081d202cbe9e
+    tiff:XResolution: 72
+    tiff:YResolution: 72
+    xmp:CreateDate: 2012-04-24T08:41:18-04:00
+    xmp:CreatorTool: Adobe Photoshop CS5 Macintosh
+    xmp:MetadataDate: 2012-04-24T09:14:45-04:00
+    xmp:ModifyDate: 2012-04-24T09:14:45-04:00
+    xmpMM:DocumentID: xmp.did:098011740720681194579AE9C305E1F3
+    xmpMM:InstanceID: xmp.iid:40C5FD470F20681194579AE9C305E1F3
+    xmpMM:OriginalDocumentID: xmp.did:098011740720681194579AE9C305E1F3
+  Profiles:
+    Profile-8bim: 25454 bytes
+    Profile-exif: 302 bytes
+    Profile-icc: 3144 bytes
+    Profile-xmp: 16960 bytes
+  Artifacts:
+    filename: example.psd
+    psd:layer.opacity: 0
+    psd:layer.x: 275ld
+    psd:layer.y: 435
+    verbose: true
+  Tainted: False
+  Filesize: 336KB
+  Number pixels: 11.2K
+  Pixels per second: 5.11KB
+  User time: 2.170u
+  Elapsed time: 0:03.190
+  Version: ImageMagick 6.7.7-6 2012-08-12 Q16 http://www.imagemagick.org
